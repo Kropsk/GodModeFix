@@ -1,0 +1,4 @@
+name: GodModeFix
+version: '${version}'
+main: com.github.kropsk.godmodefix.GodModeFix
+api-version: '1.20'
